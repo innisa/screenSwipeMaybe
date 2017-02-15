@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">testSwipe</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_screen_new">screenNew</string>
+</resources>
